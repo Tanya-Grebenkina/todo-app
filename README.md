@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+# Todo App
+A single-page application that allows users to create and manage a list of tasks.
 
-To use this template click `Use this template`
+# [Demo]()
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Technologies used
+- React.js
+- React Router(v6)
+- TypeScript
+- JavaScript
