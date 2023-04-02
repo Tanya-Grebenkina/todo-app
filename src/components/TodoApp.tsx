@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { useCallback, useMemo } from 'react';
 import { useLocation } from 'react-router-dom';
 import { Todo } from '../types/Todo';
